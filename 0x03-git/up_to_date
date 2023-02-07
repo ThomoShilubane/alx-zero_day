@@ -1,1 +1,2 @@
-Git pull origin
+git fetch origin
+git pull origin
